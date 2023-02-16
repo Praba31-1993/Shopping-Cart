@@ -1,0 +1,13 @@
+New Things going to Learn
+
+1. React Query
+2. Typescript
+
+
+In Typescript:
+React.FC : function component
+ 
+In Javascript:
+
+toFixed() - Converts number to String
+          - Round of the number upto which number we are passing in the params.   
